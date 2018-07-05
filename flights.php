@@ -33,17 +33,9 @@ $No_of_Passengers = $_POST['no_of_passengers'];
 
 
 $select_query = "SELECT * from search_details where Start = '$source' and Destination = '$dest' ";
-$query_result = mysqli_query($conn,$select_query) or die(mysqli_error($conn));
-
-
-#$no_of_rows = mysqli_num_rows($query_result);
-
-/*while($row = mysqli_fetch_array($query_result)){
-		echo "source - " . $row['Start'] . "Destination - " . $row['Destination'];
-	}
-
-*/
+$query_result = mysqli_query($conn,$select_query) or die(mysqli_error($conn));	
 ?> 
+	
 <body>
 <div class="container-fluid">
   <div class="jumbotron jumbotron-fluid">
