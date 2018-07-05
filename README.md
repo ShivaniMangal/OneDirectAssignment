@@ -74,5 +74,6 @@ Tasks Achieved :
 Bugs Disclosed :
 1. If no flight is present, it prints an empty table.
 2. In the confirmation form, it displays the first row of the search_details table. This is just a static representation, as the dynamic approach using button ID's did not prove to be successful.
+3. Flight images not printed.
 
 
