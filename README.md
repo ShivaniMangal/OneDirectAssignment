@@ -25,14 +25,14 @@ home.php -> form.php -> flights.php -> bookpage.php -> confirm.php
 This page prompts the user to enter From, To, Date of Departure and Number of Seats. 
 The following combinations of From and To Locations will provide proper output :
 From	      To
-Chennai	    Bangalore
-Chennai	    Hyderabad
-Chennai	    New York
-Bangalore	  Chennai
-Bangalore	  New York
-Hyderabad	  New York
-Hyderabad	  Chennai
-Hyderabad	  Bangalore
+1.Chennai	to    Bangalore,
+2.Chennai	to    Hyderabad,
+3.Chennai	 to   New York,
+4.Bangalore	to  Chennai,
+5.Bangalore	to  New York,
+6.Hyderabad	 to New York,
+7.Hyderabad	 to Chennai,
+8.Hyderabad	 to Bangalore,
 
 The rest will result in printing an empty table  
 
