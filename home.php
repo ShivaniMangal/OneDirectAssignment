@@ -77,7 +77,7 @@
 <br>
 <br>
 <br>
-<!-- Static images that display the destinations available in this website -->
+<!-- Static images that display the possible destinations listed in this website -->
 <div class="container">
       <div class="row">                               
         <div class="col-md-3 col-sm-6 col-md-3">
