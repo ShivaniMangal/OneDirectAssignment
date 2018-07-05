@@ -1,6 +1,6 @@
 # OneDirect Assignment - Flight Reservation
 
-This is a website built from scratch to book airplane tickets using PHP, HTML, Bootstrap and MYSQL.
+This is a website called "Winged Wanderer" built from scratch to book airplane tickets using PHP, HTML, Bootstrap and MYSQL.
 
 Platform Required : Xampp, MySQL and Apache
 
