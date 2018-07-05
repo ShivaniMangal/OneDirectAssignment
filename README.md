@@ -13,15 +13,15 @@ Instuctions on how to run the code :
 Order of viewing pages :
 home.php -> form.php -> flights.php -> bookpage.php -> confirm.php
 
-1. Screenshot of home.php
-        Homepage is for representational purposes. The user can click on "Book Now" to navigate to the ticket booking page.
+1. Screenshot of home.php:
+   Homepage is for representational purposes. The user can click on "Book Now" to navigate to the ticket booking page.
 
 
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot1.jpg)
 
 
 
-2. Screenshot of form.php
+2. Screenshot of form.php:
 This page prompts the user to enter From, To, Date of Departure and Number of Seats. 
 The following combinations of From and To Locations will provide proper output :
 From	      To
@@ -41,14 +41,14 @@ The rest will result in printing an empty table
 
 
 
-3. Screenshot of flights.php
+3. Screenshot of flights.php:
 This page displays the list of available flights, with book buttons.
 
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot3.jpg)
 
 
 
-4. Screenshot of bookpage.php
+4. Screenshot of bookpage.php: 
 This page displays a form asking the user to enter his/her name and gender. It displays details of selected flight, and prompts the user to hit confirm button. 
 
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot4.jpg)
@@ -56,7 +56,7 @@ This page displays a form asking the user to enter his/her name and gender. It d
 
 
 
-5. Screenshot of confirm.php
+5. Screenshot of confirm.php: 
 This page displays a confirmation message. It also prints the details of all passengers who have booked tickets so far.
 
 
