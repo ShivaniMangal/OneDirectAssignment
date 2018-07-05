@@ -13,22 +13,43 @@ Instuctions on how to run the code :
 Order of viewing pages :
 home.php -> form.php -> flights.php -> bookpage.php -> confirm.php
 
-Screenshot of home.php
+1)Screenshot of home.php
+
+
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot1.jpg)
 
-Screenshot of form.php
+
+
+2)Screenshot of form.php
+
+
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot2.jpg)
 
-Screenshot of flights.php
+
+
+3)Screenshot of flights.php
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot3.jpg)
 
-Screenshot of bookpage.php
+
+
+4)Screenshot of bookpage.php
+
+
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot4.jpg)
 
-Screenshot of confirm.php
+
+
+
+5)Screenshot of confirm.php
+
+
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot5.jpg)
 
-Tasks Acheieved :
+
+
+
+
+Tasks Achieved :
 1)Getting user's input from the form and printing available flights
 2)Booking a ticket and updating passengers_details table with details of booked tickets
 3)Using an insertion script to update passenger details
