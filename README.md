@@ -13,17 +13,20 @@ Instuctions on how to run the code :
 Order of viewing pages :
 home.php -> form.php -> flights.php -> bookpage.php -> confirm.php
 
-home.php
+Screenshot of home.php
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot1.jpg)
 
+Screenshot of form.php
+![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot2.jpg)
 
-form.php
+Screenshot of flights.php
+![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot3.jpg)
 
-flights.php
+Screenshot of bookpage.php
+![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot4.jpg)
 
-bookpage.php
-
-confirm.php
+Screenshot of confirm.php
+![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot5.jpg)
 
 Tasks Acheieved :
 1)Getting user's input from the form and printing available flights
