@@ -14,7 +14,7 @@ Order of viewing pages :
 home.php -> form.php -> flights.php -> bookpage.php -> confirm.php
 
 1. Screenshot of home.php
-Homepage is for representational purposes. The user can click on "Book Now" to navigate to the ticket booking page.
+        Homepage is for representational purposes. The user can click on "Book Now" to navigate to the ticket booking page.
 
 
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot1.jpg)
