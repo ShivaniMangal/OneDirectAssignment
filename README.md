@@ -14,6 +14,8 @@ Order of viewing pages :
 home.php -> form.php -> flights.php -> bookpage.php -> confirm.php
 
 home.php
+![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot1.jpg)
+
 
 form.php
 
