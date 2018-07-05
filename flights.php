@@ -21,8 +21,8 @@
 
 
 <?php    
+//Check connection
 $conn = mysqli_connect("localhost","root","","airlinebooking") or die(mysqli_error($conn));
-// Check connection
 
 // Sample insertions. System admin can add more details by directly accessing this file
 
