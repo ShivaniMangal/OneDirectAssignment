@@ -13,7 +13,8 @@ Instuctions on how to run the code :
 Order of viewing pages :
 home.php -> form.php -> flights.php -> bookpage.php -> confirm.php
 
-1)Screenshot of home.php
+1.Screenshot of home.php
+Homepage is for representational purposes. The user can click on "Book Now" to navigate to the ticket booking page.
 
 
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot1.jpg)
@@ -21,6 +22,19 @@ home.php -> form.php -> flights.php -> bookpage.php -> confirm.php
 
 
 2)Screenshot of form.php
+This page prompts the user to enter From, To, Date of Departure and Number of Seats. 
+The following combinations of From and To Locations will provide proper output :
+From	      To
+Chennai	    Bangalore
+Chennai	    Hyderabad
+Chennai	    New York
+Bangalore	  Chennai
+Bangalore	  New York
+Hyderabad	  New York
+Hyderabad	  Chennai
+Hyderabad	  Bangalore
+
+The rest will result in printing an empty table  
 
 
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot2.jpg)
@@ -28,14 +42,14 @@ home.php -> form.php -> flights.php -> bookpage.php -> confirm.php
 
 
 3)Screenshot of flights.php
-
+This page displays the list of available flights, with book buttons.
 
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot3.jpg)
 
 
 
 4)Screenshot of bookpage.php
-
+This page displays a form asking the user to enter his/her name and gender. It displays details of selected flight, and prompts the user to hit confirm button. 
 
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot4.jpg)
 
@@ -43,6 +57,7 @@ home.php -> form.php -> flights.php -> bookpage.php -> confirm.php
 
 
 5)Screenshot of confirm.php
+This page displays a confirmation message. It also prints the details of all passengers who have booked tickets so far.
 
 
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot5.jpg)
@@ -59,4 +74,5 @@ Tasks Achieved :
 Bugs Disclosed :
 1. If no flight is present, it prints an empty table.
 2. In the confirmation form, it displays the first row of the search_details table. This is just a static representation, as the dynamic approach using button ID's did not prove to be successful.
+
 
