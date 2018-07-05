@@ -28,6 +28,8 @@ home.php -> form.php -> flights.php -> bookpage.php -> confirm.php
 
 
 3)Screenshot of flights.php
+
+
 ![alt text](https://raw.githubusercontent.com/ShivaniMangal/OneDirectAssignment/master/imgs/screenshot3.jpg)
 
 
@@ -50,11 +52,11 @@ home.php -> form.php -> flights.php -> bookpage.php -> confirm.php
 
 
 Tasks Achieved :
-1)Getting user's input from the form and printing available flights
-2)Booking a ticket and updating passengers_details table with details of booked tickets
-3)Using an insertion script to update passenger details
+1. Getting user's input from the form and printing available flights
+2. Booking a ticket and updating passengers_details table with details of booked tickets
+3. Using an insertion script to update passenger details
 
 Bugs Disclosed :
-1) If no flight is present, it prints an empty table.
-2) In the confirmation form, it displays the first row of the search_details table. This is just a static representation, as the dynamic approach using button ID's did not prove to be successful.
+1. If no flight is present, it prints an empty table.
+2. In the confirmation form, it displays the first row of the search_details table. This is just a static representation, as the dynamic approach using button ID's did not prove to be successful.
 
